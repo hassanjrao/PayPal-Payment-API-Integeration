@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  border: 2px solid #428BCA;
+  width: 70%;
+  margin: 30px auto;
+  padding: 40px;
+  border-radius: 30px;
+}
+
+.transaction-message {
+  border: 2px solid #5cb85c;
+  width: 550px;
+  margin: 50px auto;
+  padding: 50px;
+  border-radius: 10px;
+}
